@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitboard", "Bitboard\Bitboard.csproj", "{D2298705-6DF4-4C87-8913-F84F00E50CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2298705-6DF4-4C87-8913-F84F00E50CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2298705-6DF4-4C87-8913-F84F00E50CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2298705-6DF4-4C87-8913-F84F00E50CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2298705-6DF4-4C87-8913-F84F00E50CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91EF97A7-8B89-4815-96C3-64718CB7B2C5}
+	EndGlobalSection
+EndGlobal
